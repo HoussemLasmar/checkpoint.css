@@ -1,0 +1,48 @@
+.navbar {
+	background-color: #050404;
+	display: flex;
+    justify-content: space-around;
+}
+
+.navbar_item {
+    color: #FFFFFF;
+    text-decoration: unset;
+    font-size: 25px;
+    font-style: oblique;
+    font-family: ui-rounded;
+
+}
+
+
+.style_fieldset{
+    display: flex;
+    align-items: center;
+    margin: 45px;
+}
+
+.style_test_article{
+    margin: 30px;
+}
+
+body{
+margin: 0px;
+background-image: url(background.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+color: #ffffff;
+}
+
+footer{
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#contact h4,#contact .facebook{
+
+    margin-right: 20px;
+}
+#contact{
+	display: flex;
+    align-items: center;
+
+}
